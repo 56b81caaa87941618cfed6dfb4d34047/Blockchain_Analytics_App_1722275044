@@ -48,5 +48,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'hello world' button to be located on the app's interface?\", \"option1\": \"In the main menu\", \"option2\": \"In the footer\"}, {\"question 2\": \"Do you have any specific color or design preferences for the 'hello world' button?\", \"option1\": \"Yes, I have specific color/design preferences\", \"option2\": \"No, I trust your design judgment\"}], \"input_token_count\": 310, \"output_token_count\": 102, \"time_taken\": \"0:00:02.413705\"}",
         "timestamp": "29072024174803",
         "message_id": "guest29072024174759"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive tooltips for guidance on using 'hello world' button\", \"checked\": true}, {\"feature\": \"Customizable themes to personalize 'hello world' button appearance\", \"checked\": false}, {\"feature\": \"Feedback form for users to share their experience with the 'hello world' button\", \"checked\": true}, {\"feature\": \"Animation effects on 'hello world' button click\", \"checked\": false}, {\"feature\": \"Button press sound effects for enhanced user interaction\", \"checked\": true}, {\"feature\": \"Share button to allow users to share 'hello world' message across social media platforms\", \"checked\": false}], \"input_token_count\": 264, \"output_token_count\": 143, \"time_taken\": \"0:00:08.087131\"}",
+        "timestamp": "29072024174808",
+        "message_id": "guest29072024174759"
     }
 ]
